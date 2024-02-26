@@ -1,0 +1,3 @@
+shape obj1 oval 300 200 50 150 30 40 50
+shape obj2 rectangle 550 600 250 100 255 0 255
+snapshot First selfie

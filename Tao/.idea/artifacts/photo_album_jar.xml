@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="photo_album:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/photo_album_jar</output-path>
+    <root id="archive" name="homework_09.jar">
+      <element id="module-output" name="homework_09" />
+    </root>
+  </artifact>
+</component>
